@@ -1,0 +1,5 @@
+#Ignore the programs of the class
+/ClaseUno
+/Clase-EDA-2019
+/.vscode
+EDA.code-workspace
