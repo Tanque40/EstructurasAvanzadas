@@ -1,6 +1,6 @@
-#Estructuras de Datos Avanzadas
+# Estructuras de Datos Avanzadas
 
-####Ejercicios en clase Estructuras de Datos Avanzadas (EDA)
+#### Ejercicios en clase Estructuras de Datos Avanzadas (EDA)
 
 * La información de introducción dada por el profesor: [Clase-EDA-2019](https://github.com/Clase-EDA/Clase-EDA-2019)
 
